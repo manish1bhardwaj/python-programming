@@ -1,6 +1,6 @@
-days=int(input("enter the number of days"))
-weeks=days//7
-d=days%7
-
-print("no. of days",weeks)
-print("no.of weeks",d)
+a=float(input("enter the first number"))
+b=float(input("entre the second number"))
+(a,b)=(b,a)
+print("swapped the number")
+print("the value of",a)
+print("the value of",b,)
